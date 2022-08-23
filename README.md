@@ -1,16 +1,16 @@
-# future_builder_api_flutter
+# flutter_default_state_manager
 
-A new Flutter project.
 
-## Getting Started
+## Estudos relaciuonados a uso da FutureBuilder 
 
-This project is a starting point for a Flutter application.
+Está dendo utilizado o conceito de FutureBuilder com api diretamente sem interrupções, apenas para estudos.
 
-A few resources to get you started if this is your first Flutter project:
+# Autor
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Fernando Alexandre Wahl
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Linkedin: https://www.linkedin.com/in/fernando-alexandre-wahl-4246b053/
+
+
+<p align="center"> Visitas: </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wahlfernando/count.svg" /></p>
